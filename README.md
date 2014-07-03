@@ -14,5 +14,5 @@ $ npm install less
 To run
 ====
 ```
-$ npm install start
+$ gulp start
 ```
